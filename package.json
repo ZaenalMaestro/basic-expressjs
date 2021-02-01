@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "router": "nodemon ./route-expressjs/belajar-router.js",
-    "middleware": "nodemon ./middleware-expressjs/index.js"
+    "middleware": "nodemon ./middleware-expressjs/index.js",
+    "artikle": "nodemon ./artikle/autentikasi.js"
   },
   "keywords": [],
   "author  ": "",
