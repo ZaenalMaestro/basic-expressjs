@@ -49,16 +49,16 @@ console.log('server berjalan diport http://localhost:3000')
 ```
 buka terminal ketik `node belajar--middleware`
 
-![terminal](D:/BELAJAR-EXPRESSJS/basic-express/middleware-expressjs/img/terminal.png)
+![terminal](https://github.com/ZaenalMaestro/basic-expressjs/blob/main/middleware-expressjs/img/terminal.PNG)
 
 
 kemudian buka browser kemudian ketikkan di address bar `localhost:3000/penonton` maka hasilnya sebagai berikut
 
-![terminal](D:/BELAJAR-EXPRESSJS/basic-express/middleware-expressjs/img/browser.png)
+![terminal](https://github.com/ZaenalMaestro/basic-expressjs/blob/main/middleware-expressjs/img/browser.PNG)
 
 lihat kembali dibrowser akan tampil pesan yang telah kita buat dimiddleware
 
-![terminal](D:/BELAJAR-EXPRESSJS/basic-express/middleware-expressjs/img/output-terminal.png)
+![terminal](https://github.com/ZaenalMaestro/basic-expressjs/blob/main/middleware-expressjs/img/output-terminal.PNG)
 
 kita coba contoh lain,  membuat validasi dan atutentikasi pembelian tiket sepak bola dimidleware 
 
@@ -90,11 +90,11 @@ console.log('Server berjalan di http://localhost:3000')
 
 jika username dan password sesuai akan menampikan `Halaman dashboard`
 
-![halaman dashborad](D:/BELAJAR-EXPRESSJS/basic-express/middleware-expressjs/img/halaman-dashboard.png)
+![halaman dashborad](https://github.com/ZaenalMaestro/basic-expressjs/blob/main/middleware-expressjs/img/halaman-dashboard.PNG)
 
 jika username atau password salah akan menampikan `Username atau password tidak sesuai`
 
-![gagal login](D:/BELAJAR-EXPRESSJS/basic-express/middleware-expressjs/img/gagal-login.png)
+![gagal login](https://github.com/ZaenalMaestro/basic-expressjs/blob/main/middleware-expressjs/img/gagal-login.PNG)
 
 **penjelasan source code**
 ```javascript
